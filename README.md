@@ -79,13 +79,14 @@ jobs :현재 세션의 작업 상태를 출력한다.
 
 >현재 환경의 작업 상태를 위와 같이 확인할 수 있다.
 
-![오픈소스2](https://github.com/jerry0579/read.me/assets/166896121/283ff626-e2b4-44a7-bd4a-d6e08f9028c8)
+![오픈소스2](https://github.com/jerry0579/README/assets/166896121/22b77505-33c2-484f-b378-a15af4471689)
 >jobs 명령어로 확인할 수 있는 세션의 상태값은 위와 같다.
 
 
 >다음과 같이 하면 v로 시작하는 모든 프로세스 ID를 확인할 수 있다.
 
-![오픈소스3](https://github.com/jerry0579/read.me/assets/166896121/1e7fc369-74ae-4ec2-9701-dc38a39487cb)
+![오픈소스3](https://github.com/jerry0579/README/assets/166896121/07f4bbeb-6ef9-4e97-b6c8-a5b2930739cc)
+
 
  
 kill :시그널 - 프로세스 종료
