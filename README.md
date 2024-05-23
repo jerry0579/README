@@ -74,7 +74,8 @@ jobs :현재 세션의 작업 상태를 출력한다.
 #
 >jobs는 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경되었지만 보고되지 않은 상태 등을 표시한다.
 
-![오픈소스](https://github.com/jerry0579/read.me/assets/166896121/ee68b2f3-2c95-4699-8015-b9d198dbc66e)
+![오픈소스](https://github.com/jerry0579/README/assets/166896121/5adbe915-5aeb-4e5f-ab7f-efdc3e8102d7)
+
 
 >현재 환경의 작업 상태를 위와 같이 확인할 수 있다.
 
